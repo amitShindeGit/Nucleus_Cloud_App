@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Nucleus_Cloud_App/static/css/main.ef85a250.css",
-    "main.js": "/Nucleus_Cloud_App/static/js/main.5e5acc9a.js",
+    "main.js": "/Nucleus_Cloud_App/static/js/main.c59d2f7f.js",
     "static/js/787.dabd32c0.chunk.js": "/Nucleus_Cloud_App/static/js/787.dabd32c0.chunk.js",
     "index.html": "/Nucleus_Cloud_App/index.html",
     "main.ef85a250.css.map": "/Nucleus_Cloud_App/static/css/main.ef85a250.css.map",
-    "main.5e5acc9a.js.map": "/Nucleus_Cloud_App/static/js/main.5e5acc9a.js.map",
+    "main.c59d2f7f.js.map": "/Nucleus_Cloud_App/static/js/main.c59d2f7f.js.map",
     "787.dabd32c0.chunk.js.map": "/Nucleus_Cloud_App/static/js/787.dabd32c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef85a250.css",
-    "static/js/main.5e5acc9a.js"
+    "static/js/main.c59d2f7f.js"
   ]
 }
